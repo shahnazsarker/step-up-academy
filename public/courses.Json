@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "picture": "https://scx2.b-cdn.net/gfx/news/hires/2011/1-studyshows20.jpg",
+        "name": "Spiral CT Scan",
+        "price": 6500,
+        "duration": "12 weeks",
+        "trainer": "Benny wales",
+        "about": "A procedure that uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body.Spiral CT uses a faster machine that spins continuously around the body. This allows it to more quickly detect images and spot problems. It can also detect small nodules (early-stage lung disease) that cannot be clearly seen on chest x-rays.\r\n"
+    },
+    {
+        "id": "2",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kathak.jpg",
+        "name": "Kathak",
+        "price": 7999,
+        "duration": "20 weeks",
+        "trainer": "Mou Hasan",
+        "about": "Kathak performances include Urdu Ghazals and commonly used instruments brought during the Mughal period.\r\n"
+    },
+    {
+        "id": "3",
+        "picture": "https://mediaindia.eu/wp-content/uploads/2019/04/bihu.jpg",
+        "name": "Bihu",
+        "trainer": "Minu Benoshi",
+        "price": 4999,
+        "duration": "8 weeks",
+        "about": "The Bihu dance is an indigenous folk dance from the Indian state of Assam.\r\n"
+    },
+    {
+        "id": "4",
+        "picture": "https://ineews.eu/wp-content/uploads/2018/08/danca-contemporanea.jpg",
+        "name": "Contemporary",
+        "price": 9999,
+        "duration": "24 weeks",
+        "trainer": "Raquel Murilo",
+        "about": "Contemporary dancers strive to connect the mind and the body through fluid dance movements.\r\n"
+    },
+    {
+        "id": "5",
+        "picture": "https://jooinn.com/images/ballet-dancer-1.jpg",
+        "name": "Ballet",
+        "price": 15000,
+        "duration": "27 weeks",
+        "trainer": "Fahad Khan & Jenny",
+        "about": "Ballet is a type of performance dance that originated during the Italian Renaissance.\r\n"
+    },
+    {
+        "id": "6",
+        "picture": "https://en.banglapedia.org/images/6/63/ClassicalDance4.jpg",
+        "name": "Bharatanatyam",
+        "price": 9999,
+        "duration": "18 weeks",
+        "trainer": "Ranu Mondol",
+        "about": "Bharatanatyam is a major form of Indian classical dance that originated in Tamil Nadu.\r\n"
+    },
+    {
+        "id": "7",
+        "picture": "https://www.observerbd.com/2016/01/03/1451830106.jpg",
+        "name": "Folk",
+        "price": 6999,
+        "trainer": "Modhumita Sarker",
+        "duration": "15 weeks",
+        "about": " Among the most widespread of Folk dances are the dhali, baul, manipuri.\r\n"
+    },
+    {
+        "id": "8",
+        "picture": "https://wallpapercave.com/wp/VPhm85P.jpg",
+        "name": "Hip-hop",
+        "price": 7000,
+        "trainer": "Stephenson Torres",
+        "duration": "10 weeks",
+        "about": "Hip-hop dance is a fusion dance genre.\r\n"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "2",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kathak.jpg",
+        "name": "Kathak Dance",
+        "price": 7999,
+        "duration": "20 weeks",
+        "about": "Kathak is one of the eight major forms of Indian classical dance.Kathak performances include Urdu Ghazals and commonly used instruments brought during the Mughal period.\r\n"
+    },
+    {
+        "id": "4",
+        "picture": "https://ineews.eu/wp-content/uploads/2018/08/danca-contemporanea.jpg",
+        "name": "Contemporary Dance",
+        "price": 9999,
+        "duration": "24 weeks",
+        "about": "Contemporary dance is a style of expressive dance that combines elements of several dance genres including modern, jazz, lyrical and classical ballet. Contemporary dancers strive to connect the mind and the body through fluid dance movements.\r\n"
+    },
+    {
+        "id": "5",
+        "picture": "https://jooinn.com/images/ballet-dancer-1.jpg",
+        "name": "Ballet Dance",
+        "price": 15000,
+        "duration": "27 weeks",
+        "about": "Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. It has since become a widespread and highly technical form of dance with its own vocabulary.\r\n"
+    },
+    {
+        "id": "8",
+        "picture": "https://wallpapercave.com/wp/VPhm85P.jpg",
+        "name": "Hip-hop Dance",
+        "price": 7000,
+        "duration": "10 weeks",
+        "about": "Hip-hop dance is a fusion dance genre that incorporates elements of popping, locking, breaking, jazz, ballet, tap dancing and other styles and is typically performed to hip-hop, R&B, funk, electronic or pop music.\r\n"
+    }
+]
